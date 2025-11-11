@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Масляный обогреватель Ресанта OM-9A",
+    "desc": "2000 Вт, 9 секций, до 25 м².",
+    "price": "5000",
+    "img": "https://via.placeholder.com/400x200.png?text=Ресанта"
+  },
+  {
+    "name": "Тепловентилятор Oasis KS-15",
+    "desc": "Керамика, 1.5 кВт, до 15 м².",
+    "price": "6500",
+    "img": "https://via.placeholder.com/400x200.png?text=Oasis"
+  }
+]
